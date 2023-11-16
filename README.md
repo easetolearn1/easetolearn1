@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...teach the Student Online Platform
 - 🌱 I’m currently Providing Online Courses ...
 - 💞️ I’m looking to collaborate on ...Entrance Exam and Recruitment Exam prepration
-- 📫 How to reach me ...visit at easetolearn.in
+- 📫 How to reach me ...visit at www.easetolearn.com
 
 <!---
 easetolearn1/easetolearn1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
